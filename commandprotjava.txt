@@ -1,0 +1,3 @@
+C:\Users\ABHISEK PATEL\Desktop>cd JAVA
+C:\Users\ABHISEK PATEL\Desktop\JAVA>javac student.java
+C:\Users\ABHISEK PATEL\Desktop\JAVA>java Students
